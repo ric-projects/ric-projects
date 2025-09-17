@@ -1,6 +1,6 @@
 # Hi there, I'm Ricardo 👋
 
-## 💻 IT Support Analyst | SysAdmin | Javascript Developer
+## 💻 IT Support Analyst | SysAdmin | Fullstack Developer
 
 
 <!--
