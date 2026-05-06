@@ -1,6 +1,6 @@
 # Hi there, I'm Ricardo 👋
 
-## 💻 IT Support Analyst | SysAdmin | Fullstack Developer
+## 💻 Fullstack Developer | IT Support
 
 
 <!--
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### 🔍 What I'm Up To
 
-- 🔭 Building web applications using Node.js
+- 🔭 Building web applications using Node.js, React, Next.js
 - 🌱 Recently completed The Odin Project's fullstack curriculum
 - 📚 Continuously expanding my knowledge of modern technologies and best practices
 
@@ -28,11 +28,12 @@ Here are some ideas to get you started:
 ### 🛠️ Skills:
 
 - JavaScript
+- TypeScript
+- HTML/CSS
 - React
 - Operating Systems, Linux and Windows Servers, Virtualization
 - Git/GitHub
 - Problem Solving, debugging
-- Testing using Jest, vitest
-- HTML/CSS
-- Node.js, Express.js, Passport auth
-- SQL (PostgreSQL)
+- Testing using Jest, vitest, playwright
+- Node.js, Express.js, Passport auth, Next.js
+- SQL (PostgreSQL), NoSQL (MongoDB)
