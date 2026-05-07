@@ -1,6 +1,6 @@
 # Hi there, I'm Ricardo 👋
 
-## 💻 Fullstack Developer | IT Support
+## 💻 Fullstack Developer | Software Support
 
 
 <!--
